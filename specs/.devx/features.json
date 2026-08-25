@@ -1,0 +1,61 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-25T09:56:15.749Z",
+  "enableTdd": false,
+  "totalFeatures": 1,
+  "features": [
+    {
+      "id": 731052740,
+      "taskId": "FEATURE-731052740",
+      "title": "Emergency Patient Triage System; Resource Allocation Dashboard",
+      "slug": "emergency-triage-resource-dashboard",
+      "state": "planned",
+      "status": "needs-clarification",
+      "openQuestions": [
+        {
+          "id": "oq-1",
+          "text": "Who are the intended users of the dashboard?",
+          "blocking": false
+        },
+        {
+          "id": "oq-2",
+          "text": "What roles exist for this feature?",
+          "blocking": true
+        },
+        {
+          "id": "oq-3",
+          "text": "Which roles can view triage data?",
+          "blocking": true
+        },
+        {
+          "id": "oq-4",
+          "text": "Which roles can modify triage status or resource allocations?",
+          "blocking": true
+        },
+        {
+          "id": "oq-5",
+          "text": "Are there read-only roles?",
+          "blocking": true
+        },
+        {
+          "id": "oq-6",
+          "text": "Are permissions scoped by facility, region, incident, department, or shift?",
+          "blocking": true
+        },
+        {
+          "id": "oq-7",
+          "text": "What authorization model applies to patient-related information, if any?",
+          "blocking": true
+        }
+      ],
+      "storyCount": 0,
+      "totalStoryPoints": 0,
+      "files": {
+        "specs": "specs/emergency-triage-resource-dashboard/specs.md",
+        "requirements": "specs/emergency-triage-resource-dashboard/requirements.md",
+        "prompt": "specs/emergency-triage-resource-dashboard/prompt.md"
+      },
+      "userStories": []
+    }
+  ]
+}

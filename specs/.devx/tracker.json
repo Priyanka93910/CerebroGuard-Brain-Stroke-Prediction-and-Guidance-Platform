@@ -1,0 +1,13 @@
+{
+  "trackerVersion": 1,
+  "updatedAt": "2026-08-25T09:56:15.749Z",
+  "tasks": {
+    "FEATURE-731052740": {
+      "status": "NEEDS_CLARIFICATION",
+      "title": "Emergency Patient Triage System; Resource Allocation Dashboard",
+      "featureId": 731052740,
+      "slug": "emergency-triage-resource-dashboard",
+      "updatedAt": "2026-08-25T09:56:15.749Z"
+    }
+  }
+}

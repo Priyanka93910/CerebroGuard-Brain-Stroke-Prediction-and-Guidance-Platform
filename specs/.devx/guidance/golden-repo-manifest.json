@@ -1,0 +1,520 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-25T09:38:39.271Z",
+  "repoId": "76e386c7-04cb-400c-a7e0-b6faaf1887ba,c342a8bc-6ecc-4a22-a037-2a149b37f678",
+  "repoName": "DEVXADO,Retail Standard-365Retail",
+  "provider": "ado",
+  "repoUrl": "https://dev.azure.com/Test27112025/d6c22a25-ea6d-4a8a-85d5-bde085d79555/_apis/git/repositories/76e386c7-04cb-400c-a7e0-b6faaf1887ba",
+  "defaultBranch": "main",
+  "allFilesMode": true,
+  "requestedFilePaths": [],
+  "includedFilePaths": [
+    "Retail Standard-365Retail/business-requirements.md",
+    "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+    "Retail Standard-365Retail/Design/Coding+Checklists.txt",
+    "Retail Standard-365Retail/Design/Solution+Document+Template.txt",
+    "Retail Standard-365Retail/meeting-notes-in-space.md"
+  ],
+  "missingFilePaths": [],
+  "sourceFiles": [
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 0,
+      "score": 1,
+      "size": 146
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 1,
+      "score": 1,
+      "size": 356
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 2,
+      "score": 1,
+      "size": 512
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 3,
+      "score": 1,
+      "size": 560
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 4,
+      "score": 1,
+      "size": 100
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 5,
+      "score": 1,
+      "size": 563
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 6,
+      "score": 1,
+      "size": 627
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 7,
+      "score": 1,
+      "size": 336
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 8,
+      "score": 1,
+      "size": 177
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 9,
+      "score": 1,
+      "size": 1513
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 10,
+      "score": 1,
+      "size": 436
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 11,
+      "score": 1,
+      "size": 177
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 12,
+      "score": 1,
+      "size": 1403
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 13,
+      "score": 1,
+      "size": 9
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 14,
+      "score": 1,
+      "size": 14376
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 15,
+      "score": 1,
+      "size": 17
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 16,
+      "score": 1,
+      "size": 433
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 17,
+      "score": 1,
+      "size": 177
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 18,
+      "score": 1,
+      "size": 1288
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 19,
+      "score": 1,
+      "size": 371
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 20,
+      "score": 1,
+      "size": 185
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 21,
+      "score": 1,
+      "size": 1515
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 22,
+      "score": 1,
+      "size": 410
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 23,
+      "score": 1,
+      "size": 185
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 24,
+      "score": 1,
+      "size": 1449
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 25,
+      "score": 1,
+      "size": 433
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 26,
+      "score": 1,
+      "size": 185
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 27,
+      "score": 1,
+      "size": 1401
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 28,
+      "score": 1,
+      "size": 368
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 29,
+      "score": 1,
+      "size": 187
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 30,
+      "score": 1,
+      "size": 1398
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 31,
+      "score": 1,
+      "size": 422
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 32,
+      "score": 1,
+      "size": 187
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 33,
+      "score": 1,
+      "size": 1421
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 34,
+      "score": 1,
+      "size": 9
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 35,
+      "score": 1,
+      "size": 14352
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 36,
+      "score": 1,
+      "size": 17
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 37,
+      "score": 1,
+      "size": 442
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 38,
+      "score": 1,
+      "size": 187
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 39,
+      "score": 1,
+      "size": 1358
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 40,
+      "score": 1,
+      "size": 412
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 41,
+      "score": 1,
+      "size": 517
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 42,
+      "score": 1,
+      "size": 494
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 43,
+      "score": 1,
+      "size": 492
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 44,
+      "score": 1,
+      "size": 362
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 45,
+      "score": 1,
+      "size": 496
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 46,
+      "score": 1,
+      "size": 419
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 47,
+      "score": 1,
+      "size": 652
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 48,
+      "score": 1,
+      "size": 620
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 49,
+      "score": 1,
+      "size": 510
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 50,
+      "score": 1,
+      "size": 596
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 51,
+      "score": 1,
+      "size": 894
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 52,
+      "score": 1,
+      "size": 840
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 53,
+      "score": 1,
+      "size": 806
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 54,
+      "score": 1,
+      "size": 621
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 55,
+      "score": 1,
+      "size": 190
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 56,
+      "score": 1,
+      "size": 2115
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 57,
+      "score": 1,
+      "size": 168
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 58,
+      "score": 1,
+      "size": 1142
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 59,
+      "score": 1,
+      "size": 300
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 60,
+      "score": 1,
+      "size": 9
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 61,
+      "score": 1,
+      "size": 31980
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 62,
+      "score": 1,
+      "size": 134
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 63,
+      "score": 1,
+      "size": 571
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 64,
+      "score": 1,
+      "size": 825
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 65,
+      "score": 1,
+      "size": 322
+    },
+    {
+      "path": "Retail Standard-365Retail/business-requirements.md",
+      "chunkIndex": 66,
+      "score": 1,
+      "size": 17
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 0,
+      "score": 1,
+      "size": 59
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 1,
+      "score": 1,
+      "size": 2133
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 2,
+      "score": 1,
+      "size": 981
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 3,
+      "score": 1,
+      "size": 689
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 4,
+      "score": 1,
+      "size": 980
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 5,
+      "score": 1,
+      "size": 67
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 6,
+      "score": 1,
+      "size": 252
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 7,
+      "score": 1,
+      "size": 183
+    },
+    {
+      "path": "Retail Standard-365Retail/Compliance/365 Retail Compliance, regulatory and Governance guidelines.txt",
+      "chunkIndex": 8,
+      "score": 1,
+      "size": 237
+    },
+    {
+      "path": "Retail Standard-365Retail/Design/Coding+Checklists.txt",
+      "chunkIndex": 0,
+      "score": 1,
+      "size": 4063
+    },
+    {
+      "path": "Retail Standard-365Retail/Design/Solution+Document+Template.txt",
+      "chunkIndex": 0,
+      "score": 1,
+      "size": 776
+    },
+    {
+      "path": "Retail Standard-365Retail/Design/Solution+Document+Template.txt",
+      "chunkIndex": 1,
+      "score": 1,
+      "size": 3430
+    },
+    {
+      "path": "Retail Standard-365Retail/meeting-notes-in-space.md",
+      "chunkIndex": 0,
+      "score": 1,
+      "size": 232
+    },
+    {
+      "path": "Retail Standard-365Retail/meeting-notes-in-space.md",
+      "chunkIndex": 1,
+      "score": 1,
+      "size": 34
+    },
+    {
+      "path": "Retail Standard-365Retail/meeting-notes-in-space.md",
+      "chunkIndex": 2,
+      "score": 1,
+      "size": 60
+    },
+    {
+      "path": "Retail Standard-365Retail/meeting-notes-in-space.md",
+      "chunkIndex": 3,
+      "score": 1,
+      "size": 283
+    }
+  ],
+  "warnings": []
+}

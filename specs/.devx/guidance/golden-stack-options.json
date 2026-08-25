@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "projectName": "InternTest",
+  "generatedAt": "2026-08-25T09:38:39.271Z",
+  "source": "golden-repo-guidance",
+  "options": {
+    "ui": [],
+    "backend": [
+      "dotnet"
+    ],
+    "database": [],
+    "ai": [],
+    "uiCustom": [
+      "android"
+    ],
+    "backendCustom": [],
+    "databaseCustom": []
+  }
+}
